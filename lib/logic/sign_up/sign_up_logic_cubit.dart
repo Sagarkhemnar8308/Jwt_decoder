@@ -2,8 +2,6 @@ import 'package:bloc/bloc.dart';
 import 'package:flutter/material.dart';
 import 'package:jwt_decode/home.dart';
 import 'package:jwt_decode/model/jwt_token_response_mode.dart';
-import 'package:jwt_decode/model/referesh_token_mode.dart';
-import 'package:jwt_decode/model/verify_otp_mode..dart';
 import 'package:jwt_decode/repo/send_otp_repo.dart';
 import 'package:jwt_decode/utils/preferences/local_preferences.dart';
 part 'sign_up_logic_state.dart';
